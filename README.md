@@ -1,6 +1,6 @@
 # Hospital Patient Record System
 
-A web-based Hospital Patient Record System developed using **Java, Hibernate, MySQL, JSP, Servlets, HTML, and CSS**.
+A web-based Hospital Patient Record System developed using Java, Hibernate, MySQL, JSP, Servlets, HTML, and CSS.
 
 ## Features
 
@@ -31,8 +31,8 @@ hospital_db
 
 ## Login
 
-**Username:** admin
-**Password:** Admin@123
+Username: admin
+Password: Admin@123
 
 ## How to Run
 
@@ -42,5 +42,3 @@ hospital_db
 4. Import the project into Eclipse as a Maven project.
 5. Configure Apache Tomcat 10.
 6. Run the project on Tomcat.
-7. Open:
-http://localhost:8080/hospital-patient-record-system/
